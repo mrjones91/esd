@@ -1,5 +1,6 @@
 # Explore Software Development Workshop and Challenge Repo
 
+This is a demo for the class
 
 ## Welcome to CodeCrew!
 
